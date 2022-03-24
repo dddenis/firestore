@@ -1,6 +1,6 @@
 {
   "name": "@dddenis/firestore",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Firestore with DataLoader",
   "homepage": "https://github.com/dddenis/firestore",
   "bugs": {
